@@ -48,8 +48,5 @@
 //     }
 
 //     greeting(age: number):string{
-//         return `Hello ${this.name}, your age is ${age}`
-//     }
-// }
-// dasd
+//  dwada
 
