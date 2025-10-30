@@ -52,12 +52,5 @@
 //     }
 // }
 // const user1=new Person('Azizbek')
-// const data= user1.greeting(24)
-// console.log(data);
-
-async function boot() {
-    console.log("Starting application...");
-}
-
-boot()
+fdsf
 
