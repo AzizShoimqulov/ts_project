@@ -27,8 +27,5 @@
 // // }
 
 // // interface IUser{
-// //     id: number
-// //     name: string
-// //     role:Role
-// dw
+// dwa
 
