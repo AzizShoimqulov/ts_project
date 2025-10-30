@@ -32,6 +32,4 @@
 // //     description:IUser[]
 // // }
 // //updatedsadsdsa
-// class Person{
-//     name:string
-//dwas
+// dwads
