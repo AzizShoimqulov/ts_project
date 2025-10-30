@@ -51,7 +51,6 @@
 //         return `Hello ${this.name}, your age is ${age}`
 //     }
 // }
-
 // const user1=new Person('Azizbek')
 // const data= user1.greeting(24)
 // console.log(data);
