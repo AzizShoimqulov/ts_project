@@ -34,7 +34,5 @@
 
 // // interface ICourse {
 // //     id: number
-// //     title: string
-// //     description:IUser[]
-// dwas
+// dwa
 
