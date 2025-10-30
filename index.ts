@@ -27,5 +27,38 @@
 // // }
 
 // // interface IUser{
-// dwa
+// //     id: number
+// //     name: string
+// //     role:Role
+// // }
+
+// // interface ICourse {
+// //     id: number
+// //     title: string
+// //     description:IUser[]
+// // }
+// //updatedsadsdsa
+
+
+// class Person{
+//     name:string
+
+//     constructor(name:string){
+//         this.name = name
+//     }
+
+//     greeting(age: number):string{
+//         return `Hello ${this.name}, your age is ${age}`
+//     }
+// }
+
+// const user1=new Person('Azizbek')
+// const data= user1.greeting(24)
+// console.log(data);
+
+async function boot() {
+    console.log("Starting application...");
+}
+
+boot()
 
