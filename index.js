@@ -26,6 +26,4 @@
 // //     name: string
 // //     role:Role
 // // }
-// // interface ICourse {
-// //     id: number
 // dwa
