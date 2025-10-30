@@ -45,8 +45,5 @@
 
 //     constructor(name:string){
 //         this.name = name
-//     }
-
-//     greeting(age: number):string{
-//  dwada
+// dwad
 
