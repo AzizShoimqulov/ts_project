@@ -51,6 +51,5 @@
 //         return `Hello ${this.name}, your age is ${age}`
 //     }
 // }
-// const user1=new Person('Azizbek')
-fdsf
+// dasd
 
